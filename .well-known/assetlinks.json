@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.pages.ngejob.twa",
+        "sha256_cert_fingerprints": ["FB:3A:49:D6:4F:7C:39:E1:1E:D2:61:89:D3:64:A4:92:3A:55:A4:B9:91:25:9D:24:29:CA:D0:A4:24:D1:6D:42"]
+      }
+    }]
